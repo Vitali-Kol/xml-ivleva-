@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<online_store>
+    <!-- Категория: Электроника -->
+    <category name="Электроника">
+        <product id="1">
+            <title>Watch Series 4 Smartwatch</title>
+            <brand>Apple</brand>
+            <price currency="USD">180.10</price>
+            <stock>1</stock>
+            <rating>4.7</rating>
+            <reviews>
+                <review>
+                    <user>AliExpress Shopper</user>
+                    <rating>5</rating>
+                    <text>100/10 Я думал, что меня обманут, но нет.
+                     Часы целые, новые, оригинальные, в отличном состоянии, но прежде всего: функциональные.
+                     Стопка доводит их до 100%, если пользоваться, то они прослужат день, но они отличные.</text>
+                </review>
+                <review>
+                    <user>Хельга</user>
+                    <rating>5</rating>
+                    <text>Только батарея держит очень мало, но с тех пор и до сих пор прошло 15 дней, все хорошо.
+                    Батарея держит полтора дня.</text>
+                </review>
+            </reviews>
+        </product>
+        <!--https://www.aliexpress.com/item/1005007352556677.html?spm=a2g0o.productlist.main.1.6b58KYrXKYrXwO&algo_pvid=6b61e3b1-540c-4548-a7b1-74cdd28574b4&algo_exp_id=6b61e3b1-540c-4548-a7b1-74cdd28574b4-0&pdp_ext_f=%7B%22order%22%3A%22242%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21EUR%21536.54%21174.28%21%21%213945.18%211281.49%21%402103919917391872248907134eda9e%2112000040389107934%21sea%21EE%210%21ABX&curPageLogUid=yEUb03wEF3K1&utparam-url=scene%3Asearch%7Cquery_from%3A-->
+
+        <product id="2">
+            <title>Wireless Bluetooth Headset</title>
+            <brand>P9</brand>
+            <price currency="USD">7</price>
+            <stock>1</stock>
+            <rating>3.7</rating>
+            <reviews>
+                <review>
+                    <user>Иван</user>
+                    <rating>1</rating>
+                    <text>Вначале продукт выглядел очень хорошо, но когда я снял упаковку, то обнаружил, что корпус наушников полностью разрушен, сами наушники раздавлены, они как игрушечные, они не похожи на настоящие наушники, звук настолько плохой, что я вообще не рекомендую их.</text>
+                </review>
+                <review>
+                    <user>Майкл</user>
+                    <rating>5</rating>
+                    <text>очень хорошо, мне нравятся наушники, обслуживание клиентов очень хорошее, хорошооооооооо</text>
+                </review>
+            </reviews>
+        </product>
+        <!--https://www.aliexpress.com/item/1005007794344019.html?spm=a2g0o.productlist.main.9.6ad26245PhjqhH&algo_pvid=df17197e-bce7-4829-8e4d-7be92a5e17d5&algo_exp_id=df17197e-bce7-4829-8e4d-7be92a5e17d5-4&pdp_ext_f=%7B%22order%22%3A%22415%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21EUR%2115.71%214.91%21%21%21115.50%2136.10%21%40210385a817391876850088338eab10%2112000042225355374%21sea%21EE%210%21ABX&curPageLogUid=hbAOphhj8qzU&utparam-url=scene%3Asearch%7Cquery_from%3A-->
+
+        <product id="3">
+            <title>Smartphone S24 Pro++</title>
+            <brand>Android</brand>
+            <price currency="USD">110</price>
+            <stock>93</stock>
+            <rating>4.7</rating>
+            <reviews>
+                <review>
+                    <user>Артём</user>
+                    <rating>5</rating>
+                    <text>Я действительно не жалею, что купил этот телефон, похоже, у него был чехол, у него приличная камера, супер мощный процессор, хорошая батарея, быстрая зарядка и все это за супер цену</text>
+                </review>
+                <review>
+                    <user>Александр</user>
+                    <rating>5</rating>
+                    <text>Резервный аппарат, эффект мобильного телефона неплохой, главное, что цена очень низкая, продавец доставляет быстро, примерно за две недели.</text>
+                </review>
+            </reviews>
+        </product>
+        <!--https://www.aliexpress.com/item/1005008158592275.html?spm=a2g0o.productlist.main.15.268e65dbe1viBI&aem_p4p_detail=202502100348118777550532929090007442767&algo_pvid=d34210d2-b063-4f61-bd55-d4903a76f5b8&algo_exp_id=d34210d2-b063-4f61-bd55-d4903a76f5b8-7&pdp_ext_f=%7B%22order%22%3A%2262%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21EUR%21199.01%2199.50%21%21%21200.25%21100.12%21%402103890117391880917673665ea287%2112000044033645240%21sea%21EE%210%21ABX&curPageLogUid=frhM0qXuhoeo&utparam-url=scene%3Asearch%7Cquery_from%3A&search_p4p_id=202502100348118777550532929090007442767_2-->
+
+    </category>
+
+    <!-- Категория: Одежда -->
+    <category name="Одежда">
+        <product id="4">
+            <title>Outdoor Jacket Men</title>
+            <brand>TheNorthFace</brand>
+            <price currency="USD">89.99</price>
+            <stock>978</stock>
+            <rating>3.8</rating>
+            <reviews>
+                <review>
+                    <user>Евгения</user>
+                    <rating>3</rating>
+                    <text>Хорошее качество, но не идентично фото. Это просто ветровка, и у нее есть толстовка. Рекомендую брать на размер больше.</text>
+                </review>
+                <review>
+                    <user>Магомед</user>
+                    <rating>1</rating>
+                    <text>Нет хорошего качества</text>
+                </review>
+            </reviews>
+        </product>
+        <!--https://www.aliexpress.com/item/1005007917258969.html?spm=a2g0o.productlist.main.7.69adjZ4bjZ4bSO&aem_p4p_detail=202502100425201322185156203750000668027&algo_pvid=fd23dfad-4d69-40d0-a0f1-c77997641bcd&algo_exp_id=fd23dfad-4d69-40d0-a0f1-c77997641bcd-3&pdp_ext_f=%7B%22order%22%3A%22124%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21EUR%2140.18%2118.08%21%21%21295.41%21132.93%21%402103894417391903201453749e1dcb%2112000042836147452%21sea%21EE%210%21ABX&curPageLogUid=akxvijum46dX&utparam-url=scene%3Asearch%7Cquery_from%3A&search_p4p_id=202502100425201322185156203750000668027_1-->
+
+        <product id="5">
+            <title>Cotton Coat New</title>
+            <brand>Fashion</brand>
+            <price currency="USD">20</price>
+            <stock>1</stock>
+            <rating>4.3</rating>
+            <reviews>
+                <review>
+                    <user>Наталья</user>
+                    <rating>5</rating>
+                    <text>Очень хорошая цена, мне нравится, пришло мятым, я девушка размера 1 в Мексике, рекомендую</text>
+                </review>
+                <review>
+                    <user>Максим</user>
+                    <rating>5</rating>
+                    <text>Идеально подошли 1.67 и сыт 56 Я заказал средний размер Я остаюсь эффектным отдельно идет с подкладкой Хорошее качество Я закажу зеленый и серый без сомнений! Плюс</text>
+                </review>
+            </reviews>
+        </product>
+        <!--https://www.aliexpress.com/item/1005006976494502.html?spm=a2g0o.productlist.main.11.42be34f1yF6JrM&algo_pvid=facfe5ea-3660-458f-b247-bbdd44aef6c5&algo_exp_id=facfe5ea-3660-458f-b247-bbdd44aef6c5-5&pdp_ext_f=%7B%22order%22%3A%221303%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21EUR%2159.60%2117.08%21%21%21438.25%21125.60%21%40210384cc17391905253975549ef17c%2112000038915807405%21sea%21EE%210%21ABX&curPageLogUid=BjXYOEFRnyWJ&utparam-url=scene%3Asearch%7Cquery_from%3A-->
+
+        <product id="6">
+            <title>Men sweater</title>
+            <brand>KUCLUT</brand>
+            <price currency="USD">25</price>
+            <stock>48</stock>
+            <rating>4.3</rating>
+            <reviews>
+                <review>
+                    <user>Эмиль</user>
+                    <rating>3</rating>
+                    <text>Для шкива нормально. Не копия бренда.</text>
+                </review>
+                <review>
+                    <user>Артур</user>
+                    <rating>5</rating>
+                    <text>Очень мягкий. На рост 48. Хорошо сел XL. Рукава не короткие.</text>
+                </review>
+            </reviews>
+        </product>
+        <!--https://www.aliexpress.com/item/1005007977013670.html?spm=a2g0o.productlist.main.7.1c47e513mGfPLA&aem_p4p_detail=202502100435187470917728958020007587302&algo_pvid=edd01a55-3960-4837-a77b-cdeff9595100&algo_exp_id=edd01a55-3960-4837-a77b-cdeff9595100-3&pdp_ext_f=%7B%22order%22%3A%2256%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21EUR%2135.14%2117.57%21%21%21258.36%21129.18%21%402103835e17391909187503265e7d13%2112000043124991743%21sea%21EE%210%21ABX&curPageLogUid=EPJTvDV9EUkF&utparam-url=scene%3Asearch%7Cquery_from%3A&search_p4p_id=202502100435187470917728958020007587302_1-->
+    </category>
+
+    <!-- Категория: Обувь -->
+    <category name="Обувь">
+        <product id="7">
+            <title>Мужские зимние ботинки</title>
+            <brand>BJ</brand>
+            <price currency="USD">6</price>
+            <stock>1</stock>
+            <rating>4.3</rating>    
+            <reviews>
+                <review>
+                    <user>Сергей</user>
+                    <rating>4</rating>
+                    <text>Хорошая камера, но батарея садится быстро.</text>
+                </review>
+            </reviews>
+        </product>
+        <!--https://www.aliexpress.com/item/1005007472724918.html?spm=a2g0o.productlist.main.15.fef45NZx5NZxjT&aem_p4p_detail=2025021004445516436326358623970003962203&algo_pvid=3bbf2cbf-8479-43df-aef6-44fef346f0e6&algo_exp_id=3bbf2cbf-8479-43df-aef6-44fef346f0e6-7&pdp_ext_f=%7B%22order%22%3A%22806%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21EUR%2113.68%215.20%21%21%2113.77%215.24%21%40211b6c1917391914957797581e4487%2112000040895394639%21sea%21EE%210%21ABX&curPageLogUid=fXjSqSW2SIYb&utparam-url=scene%3Asearch%7Cquery_from%3A&search_p4p_id=2025021004445516436326358623970003962203_2-->
+    </category>
+</online_store>
