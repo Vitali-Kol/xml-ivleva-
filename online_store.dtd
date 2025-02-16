@@ -1,0 +1,43 @@
+<!ELEMENT online_store (category+)>
+
+<!ELEMENT category (product+)>
+<!ATTLIST category 
+    name CDATA #REQUIRED>
+
+<!ELEMENT product (title, brand, rating, (stock | priceRange)?, variants, reviews)>
+<!ATTLIST product 
+    id CDATA #REQUIRED>
+
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT brand (#PCDATA)>
+<!ELEMENT rating (#PCDATA)>
+<!ELEMENT stock (#PCDATA)>
+
+<!-- Для некоторых продуктов указываем диапазон цен -->
+<!ELEMENT priceRange (minPrice, maxPrice)>
+<!ELEMENT minPrice (#PCDATA)>
+<!ELEMENT maxPrice (#PCDATA)>
+
+<!ELEMENT variants (variant+)>
+
+<!-- Элемент variant может содержать либо блок размеров, либо напрямую цены -->
+<!ELEMENT variant ((sizes) | (originalPrice, discountPrice, stock?))>
+<!ATTLIST variant
+    color CDATA #IMPLIED
+    memory CDATA #IMPLIED
+    currency CDATA #REQUIRED
+    stock CDATA #IMPLIED>
+
+<!ELEMENT sizes (size+)>
+
+<!ELEMENT size (originalPrice, discountPrice, stock?)>
+<!ATTLIST size 
+    name CDATA #REQUIRED>
+
+<!ELEMENT originalPrice (#PCDATA)>
+<!ELEMENT discountPrice (#PCDATA)>
+
+<!ELEMENT reviews (review+)>
+<!ELEMENT review (user, rating, text)>
+<!ELEMENT user (#PCDATA)>
+<!ELEMENT text (#PCDATA)>

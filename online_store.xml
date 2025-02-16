@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE online_store SYSTEM "online_store.dtd">
 <online_store>
     <!-- Категория: Электроника -->
     <category name="Электроника">
