@@ -2,36 +2,96 @@
 <online_store>
     <!-- Категория: Электроника -->
     <category name="Электроника">
+        <!-- Источник: https://www.aliexpress.com/item/1005007352556677.html?spm=a2g0o.productlist.main.1.6b58KYrXKYrXwO&algo_pvid=6b61e3b1-540c-4548-a7b1-74cdd28574b4&algo_exp_id=6b61e3b1-540c-4548-a7b1-74cdd28574b4-0&pdp_ext_f=%7B%22order%22%3A%22242%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21EUR%21536.54%21174.28%21%21%213945.18%211281.49%21%402103919917391872248907134eda9e%2112000040389107934%21sea%21EE%210%21ABX&curPageLogUid=yEUb03wEF3K1&utparam-url=scene%3Asearch%7Cquery_from%3A -->
         <product id="1">
             <title>Watch Series 4 Smartwatch</title>
             <brand>Apple</brand>
-            <price currency="USD">180.10</price>
-            <stock>1</stock>
             <rating>4.7</rating>
+            <variants>
+                <variant color="Pink" currency="EUR">
+                    <sizes>
+                        <size name="40mm">
+                            <originalPrice>531.80</originalPrice>
+                            <discountPrice>170.18</discountPrice>
+                            <stock>5</stock>
+                        </size>
+                        <size name="44mm">
+                            <originalPrice>520.23</originalPrice>
+                            <discountPrice>169.67</discountPrice>
+                            <stock>3</stock>
+                        </size>
+                    </sizes>
+                </variant>
+                <variant color="Black" currency="EUR">
+                    <sizes>
+                        <size name="40mm">
+                            <originalPrice>532.41</originalPrice>
+                            <discountPrice>170.37</discountPrice>
+                            <stock>5</stock>
+                        </size>
+                        <size name="44mm">
+                            <originalPrice>530.73</originalPrice>
+                            <discountPrice>169.83</discountPrice>
+                            <stock>9</stock>
+                        </size>
+                    </sizes>
+                </variant>
+                <variant color="White" currency="EUR">
+                    <sizes>
+                        <size name="40mm">
+                            <originalPrice>532.56</originalPrice>
+                            <discountPrice>170.42</discountPrice>
+                            <stock>9</stock>
+                        </size>
+                        <size name="44mm">
+                            <originalPrice>530.89</originalPrice>
+                            <discountPrice>169.88</discountPrice>
+                            <stock>9</stock>
+                        </size>
+                    </sizes>
+                </variant>
+            </variants>
             <reviews>
                 <review>
-                    <user>AliExpress Shopper</user>
+                    <user>AliceK_92</user>
                     <rating>5</rating>
-                    <text>100/10 Я думал, что меня обманут, но нет.
-                     Часы целые, новые, оригинальные, в отличном состоянии, но прежде всего: функциональные.
-                     Стопка доводит их до 100%, если пользоваться, то они прослужат день, но они отличные.</text>
+                    <text>Отличные часы! Функциональность на высоте, дисплей яркий и отзывчивый, сборка без нареканий. Использую ежедневно – рекомендую!</text>
                 </review>
                 <review>
-                    <user>Хельга</user>
+                    <user>VladimirTech</user>
                     <rating>5</rating>
-                    <text>Только батарея держит очень мало, но с тех пор и до сих пор прошло 15 дней, все хорошо.
-                    Батарея держит полтора дня.</text>
+                    <text>Хорошее соотношение цена-качество. Батарея держит достаточно, удобное управление и стильный дизайн. Покупкой доволен.</text>
                 </review>
             </reviews>
         </product>
-        <!--https://www.aliexpress.com/item/1005007352556677.html?spm=a2g0o.productlist.main.1.6b58KYrXKYrXwO&algo_pvid=6b61e3b1-540c-4548-a7b1-74cdd28574b4&algo_exp_id=6b61e3b1-540c-4548-a7b1-74cdd28574b4-0&pdp_ext_f=%7B%22order%22%3A%22242%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21EUR%21536.54%21174.28%21%21%213945.18%211281.49%21%402103919917391872248907134eda9e%2112000040389107934%21sea%21EE%210%21ABX&curPageLogUid=yEUb03wEF3K1&utparam-url=scene%3Asearch%7Cquery_from%3A-->
 
+        <!-- Источник: https://www.aliexpress.com/item/1005007794344019.html?spm=a2g0o.productlist.main.9.6ad26245PhjqhH&algo_pvid=df17197e-bce7-4829-8e4d-7be92a5e17d5&algo_exp_id=df17197e-bce7-4829-8e4d-7be92a5e17d5-4&pdp_ext_f=%7B%22order%22%3A%22415%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21EUR%2115.71%214.91%21%21%21115.50%2136.10%21%40210385a817391876850088338eab10%2112000042225355374%21sea%21EE%210%21ABX&curPageLogUid=hbAOphhj8qzU&utparam-url=scene%3Asearch%7Cquery_from%3A -->
         <product id="2">
             <title>Wireless Bluetooth Headset</title>
             <brand>P9</brand>
-            <price currency="USD">7</price>
-            <stock>1</stock>
-            <rating>3.7</rating>
+            <rating>3.6</rating>
+            <variants>
+                <variant color="P9-Silver" currency="EUR">
+                    <originalPrice>15.52</originalPrice>
+                    <discountPrice>5.34</discountPrice>
+                    <stock>932</stock>
+                </variant>
+                <variant color="P9-Black" currency="EUR">
+                    <originalPrice>19.56</originalPrice>
+                    <discountPrice>6.73</discountPrice>
+                    <stock>308</stock>
+                </variant>
+                <variant color="P9 pro-Silver" currency="EUR">
+                    <originalPrice>20.45</originalPrice>
+                    <discountPrice>7.04</discountPrice>
+                    <stock>459</stock>
+                </variant>
+                <variant color="P9 pro-Black" currency="EUR">
+                    <originalPrice>20.50</originalPrice>
+                    <discountPrice>7.06</discountPrice>
+                    <stock>379</stock>
+                </variant>
+            </variants>
             <reviews>
                 <review>
                     <user>Иван</user>
@@ -45,113 +105,509 @@
                 </review>
             </reviews>
         </product>
-        <!--https://www.aliexpress.com/item/1005007794344019.html?spm=a2g0o.productlist.main.9.6ad26245PhjqhH&algo_pvid=df17197e-bce7-4829-8e4d-7be92a5e17d5&algo_exp_id=df17197e-bce7-4829-8e4d-7be92a5e17d5-4&pdp_ext_f=%7B%22order%22%3A%22415%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21EUR%2115.71%214.91%21%21%21115.50%2136.10%21%40210385a817391876850088338eab10%2112000042225355374%21sea%21EE%210%21ABX&curPageLogUid=hbAOphhj8qzU&utparam-url=scene%3Asearch%7Cquery_from%3A-->
 
+        <!-- Источник: https://www.aliexpress.com/item/1005007523910037.html?spm=a2g0o.productlist.main.13.351c1zJd1zJdhH&algo_pvid=efb32392-52b8-4cc3-811d-ad7877838d43&algo_exp_id=efb32392-52b8-4cc3-811d-ad7877838d43-6&pdp_ext_f=%7B%22order%22%3A%221053%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21EUR%2179.00%2164.44%21%21%2179.00%2164.44%21%402103846917397207855537929e81b6%2112000041137681869%21sea%21EE%210%21ABX&curPageLogUid=KhIMyRtGSPl6&utparam-url=scene%3Asearch%7Cquery_from%3A -->
         <product id="3">
             <title>Smartphone S24 Pro++</title>
             <brand>Android</brand>
-            <price currency="USD">110</price>
-            <stock>93</stock>
-            <rating>4.7</rating>
+            <!-- Базовая цена для общего отображения -->
+            <rating>4.2</rating>
+            <stock>1 per person</stock>
+            <variants>
+                <variant color="Black" currency="EUR">
+                    <originalPrice>79.00</originalPrice>
+                    <discountPrice>64.44</discountPrice>
+                </variant>
+                <variant color="Purple" currency="EUR">
+                    <originalPrice>79.00</originalPrice>
+                    <discountPrice>64.44</discountPrice>
+                </variant>
+                <variant color="Gold" currency="EUR">
+                    <originalPrice>79.00</originalPrice>
+                    <discountPrice>64.44</discountPrice>
+                </variant>
+                <variant memory="512GB" currency="EUR">
+                    <originalPrice>79.00</originalPrice>
+                    <discountPrice>64.44</discountPrice>
+                </variant>
+                <variant memory="1TB" currency="EUR">
+                    <originalPrice>89.00</originalPrice>
+                    <discountPrice>73.34</discountPrice>
+                </variant>
+                <variant memory="2TB" currency="EUR">
+                    <originalPrice>109.00</originalPrice>
+                    <discountPrice>91.14</discountPrice>
+                </variant>
+            </variants>
             <reviews>
                 <review>
                     <user>Артём</user>
                     <rating>5</rating>
-                    <text>Я действительно не жалею, что купил этот телефон, похоже, у него был чехол, у него приличная камера, супер мощный процессор, хорошая батарея, быстрая зарядка и все это за супер цену</text>
+                    <text>Большое спасибо, продавец. Скоро прибудет. Отслеживание есть. Хорошо, Телефон.</text>
                 </review>
                 <review>
                     <user>Александр</user>
                     <rating>5</rating>
-                    <text>Резервный аппарат, эффект мобильного телефона неплохой, главное, что цена очень низкая, продавец доставляет быстро, примерно за две недели.</text>
+                    <text>Заказал в этом магазине второй Телефон (жене очень нравится, заказал для Волос)! Доставка быстрая (20 дней с момента заказа до получения на почте). Упаковка идеальная. Телефон как новый! Спасибо продавцу!!!</text>
                 </review>
             </reviews>
-        </product>
-        <!--https://www.aliexpress.com/item/1005008158592275.html?spm=a2g0o.productlist.main.15.268e65dbe1viBI&aem_p4p_detail=202502100348118777550532929090007442767&algo_pvid=d34210d2-b063-4f61-bd55-d4903a76f5b8&algo_exp_id=d34210d2-b063-4f61-bd55-d4903a76f5b8-7&pdp_ext_f=%7B%22order%22%3A%2262%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21EUR%21199.01%2199.50%21%21%21200.25%21100.12%21%402103890117391880917673665ea287%2112000044033645240%21sea%21EE%210%21ABX&curPageLogUid=frhM0qXuhoeo&utparam-url=scene%3Asearch%7Cquery_from%3A&search_p4p_id=202502100348118777550532929090007442767_2-->
-
-    </category>
+                </product>
+            </category>
 
     <!-- Категория: Одежда -->
     <category name="Одежда">
+        <!-- Источник: https://www.aliexpress.com/item/1005007459631962.html?spm=a2g0o.productlist.main.77.18983a1fNvcwv0&algo_pvid=03a32135-af92-45e2-94d6-25d19b2e8fe4&algo_exp_id=03a32135-af92-45e2-94d6-25d19b2e8fe4-38&pdp_ext_f=%7B%22order%22%3A%22849%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21EUR%2128.33%215.05%21%21%21210.77%2137.55%21%40211b612817397214012014573eeaf6%2112000040846766704%21sea%21EE%210%21ABX&curPageLogUid=pDMEnxTfII74&utparam-url=scene%3Asearch%7Cquery_from%3A -->
         <product id="4">
-            <title>Outdoor Jacket Men</title>
-            <brand>TheNorthFace</brand>
-            <price currency="USD">89.99</price>
-            <stock>978</stock>
-            <rating>3.8</rating>
+            <title>Cartoon Machine Bear Print Hoodie</title>
+            <brand>Innovation Men Store</brand>
+            <priceRange currency="EUR">
+                <minPrice>5.05</minPrice>
+                <maxPrice>31.65</maxPrice>
+            </priceRange>
+            <stock>1 per person</stock>
+            <rating>4</rating>
+            <variants>
+                <variant size="S" color="black" currency="EUR">
+                    <originalPrice>28.33</originalPrice>
+                    <discountPrice>5.05</discountPrice>
+                </variant>
+                <variant size="S" color="white" currency="EUR">
+                    <originalPrice>28.33</originalPrice>
+                    <discountPrice>5.05</discountPrice>
+                </variant>
+                <variant size="M" color="black" currency="EUR">
+                    <originalPrice>29.55</originalPrice>
+                    <discountPrice>5.56</discountPrice>
+                </variant>
+                <variant size="M" color="white" currency="EUR">
+                    <originalPrice>29.26</originalPrice>
+                    <discountPrice>5.44</discountPrice>
+                </variant>
+                <variant size="L" color="black" currency="EUR">
+                    <originalPrice>29.62</originalPrice>
+                    <discountPrice>5.59</discountPrice>
+                </variant>
+                <variant size="L" color="white" currency="EUR">
+                    <originalPrice>29.34</originalPrice>
+                    <discountPrice>5.47</discountPrice>
+                </variant>
+                <variant size="XL" color="black" currency="EUR">
+                    <originalPrice>30.23</originalPrice>
+                    <discountPrice>5.85</discountPrice>
+                </variant>
+                <variant size="XL" color="white" currency="EUR">
+                    <originalPrice>30.64</originalPrice>
+                    <discountPrice>6.02</discountPrice>
+                </variant>
+                <variant size="XXL" color="black" currency="EUR">
+                    <originalPrice>31.04</originalPrice>
+                    <discountPrice>6.19</discountPrice>
+                </variant>
+                <variant size="XXL" color="white" currency="EUR">
+                    <originalPrice>31.65</originalPrice>
+                    <discountPrice>6.44</discountPrice>
+                </variant>
+            </variants>
             <reviews>
                 <review>
                     <user>Евгения</user>
-                    <rating>3</rating>
-                    <text>Хорошее качество, но не идентично фото. Это просто ветровка, и у нее есть толстовка. Рекомендую брать на размер больше.</text>
+                    <rating>5</rating>
+                    <text>Если это не ткань, то это очень дешево и ничего хорошего.</text>
                 </review>
                 <review>
                     <user>Магомед</user>
-                    <rating>1</rating>
-                    <text>Нет хорошего качества</text>
+                    <rating>5</rating>
+                    <text>Очень хорошее качество и очень хорошо сделано. Доставка была очень легкой и быстрой. Дизайн тоже очень классный</text>
                 </review>
             </reviews>
         </product>
-        <!--https://www.aliexpress.com/item/1005007917258969.html?spm=a2g0o.productlist.main.7.69adjZ4bjZ4bSO&aem_p4p_detail=202502100425201322185156203750000668027&algo_pvid=fd23dfad-4d69-40d0-a0f1-c77997641bcd&algo_exp_id=fd23dfad-4d69-40d0-a0f1-c77997641bcd-3&pdp_ext_f=%7B%22order%22%3A%22124%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21EUR%2140.18%2118.08%21%21%21295.41%21132.93%21%402103894417391903201453749e1dcb%2112000042836147452%21sea%21EE%210%21ABX&curPageLogUid=akxvijum46dX&utparam-url=scene%3Asearch%7Cquery_from%3A&search_p4p_id=202502100425201322185156203750000668027_1-->
 
+        <!-- Источник: https://www.aliexpress.com/item/1005008189023953.html?spm=a2g0o.productlist.main.75.18983a1fUng0Z5&algo_pvid=05b9d74e-a100-4101-9b58-5b05c3e16191&algo_exp_id=05b9d74e-a100-4101-9b58-5b05c3e16191-37&pdp_ext_f=%7B%22order%22%3A%22913%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21EUR%215.05%211.87%21%21%2137.58%2113.90%21%40210390b817397221053978013ea0a4%2112000044174191395%21sea%21EE%210%21ABX&curPageLogUid=TvMUg7shVMSa&utparam-url=scene%3Asearch%7Cquery_from%3A -->
         <product id="5">
-            <title>Cotton Coat New</title>
-            <brand>Fashion</brand>
-            <price currency="USD">20</price>
-            <stock>1</stock>
-            <rating>4.3</rating>
+            <title>Men's Gradient 3D Printed T-shirt</title>
+            <brand>RESET</brand>
+            <priceRange currency="EUR">
+                <minPrice>1.87</minPrice>
+                <maxPrice>5.05</maxPrice>
+            </priceRange>
+            <rating>4.0</rating>
+            <variants>
+                <variant color="Purple" stock="99999" currency="EUR">
+                    <sizes>
+                        <size name="XXS">
+                            <originalPrice>5.05</originalPrice>
+                            <discountPrice>1.87</discountPrice>
+                        </size>
+                        <size name="XS">
+                            <originalPrice>5.05</originalPrice>
+                            <discountPrice>1.87</discountPrice>
+                        </size>
+                        <size name="S">
+                            <originalPrice>5.05</originalPrice>
+                            <discountPrice>1.87</discountPrice>
+                        </size>
+                        <size name="M">
+                            <originalPrice>5.05</originalPrice>
+                            <discountPrice>1.87</discountPrice>
+                        </size>
+                        <size name="L">
+                            <originalPrice>5.05</originalPrice>
+                            <discountPrice>1.87</discountPrice>
+                        </size>
+                        <size name="XL">
+                            <originalPrice>5.05</originalPrice>
+                            <discountPrice>1.87</discountPrice>
+                        </size>
+                        <size name="2XL">
+                            <originalPrice>5.05</originalPrice>
+                            <discountPrice>1.87</discountPrice>
+                        </size>
+                        <size name="3XL">
+                            <originalPrice>5.05</originalPrice>
+                            <discountPrice>1.87</discountPrice>
+                        </size>
+                        <size name="4XL">
+                            <originalPrice>5.05</originalPrice>
+                            <discountPrice>1.87</discountPrice>
+                        </size>
+                        <size name="5XL">
+                            <originalPrice>5.05</originalPrice>
+                            <discountPrice>1.87</discountPrice>
+                        </size>
+                    </sizes>
+                </variant>
+                <variant color="Grey" stock="99996" currency="EUR">
+                    <sizes>
+                        <size name="XXS">
+                            <originalPrice>5.05</originalPrice>
+                            <discountPrice>1.87</discountPrice>
+                        </size>
+                        <size name="XS">
+                            <originalPrice>5.05</originalPrice>
+                            <discountPrice>1.87</discountPrice>
+                        </size>
+                        <size name="S">
+                            <originalPrice>5.05</originalPrice>
+                            <discountPrice>1.87</discountPrice>
+                        </size>
+                        <size name="M">
+                            <originalPrice>5.05</originalPrice>
+                            <discountPrice>1.87</discountPrice>
+                        </size>
+                        <size name="L">
+                            <originalPrice>5.05</originalPrice>
+                            <discountPrice>1.87</discountPrice>
+                        </size>
+                        <size name="XL">
+                            <originalPrice>5.05</originalPrice>
+                            <discountPrice>1.87</discountPrice>
+                        </size>
+                        <size name="2XL">
+                            <originalPrice>5.05</originalPrice>
+                            <discountPrice>1.87</discountPrice>
+                        </size>
+                        <size name="3XL">
+                            <originalPrice>5.05</originalPrice>
+                            <discountPrice>1.87</discountPrice>
+                        </size>
+                        <size name="4XL">
+                            <originalPrice>5.05</originalPrice>
+                            <discountPrice>1.87</discountPrice>
+                        </size>
+                        <size name="5XL">
+                            <originalPrice>5.05</originalPrice>
+                            <discountPrice>1.87</discountPrice>
+                        </size>
+                    </sizes>
+                </variant>
+                <variant color="Green" stock="99997" currency="EUR">
+                    <sizes>
+                        <size name="XXS">
+                            <originalPrice>5.05</originalPrice>
+                            <discountPrice>1.87</discountPrice>
+                        </size>
+                        <size name="XS">
+                            <originalPrice>5.05</originalPrice>
+                            <discountPrice>1.87</discountPrice>
+                        </size>
+                        <size name="S">
+                            <originalPrice>5.05</originalPrice>
+                            <discountPrice>1.87</discountPrice>
+                        </size>
+                        <size name="M">
+                            <originalPrice>5.05</originalPrice>
+                            <discountPrice>1.87</discountPrice>
+                        </size>
+                        <size name="L">
+                            <originalPrice>5.05</originalPrice>
+                            <discountPrice>1.87</discountPrice>
+                        </size>
+                        <size name="XL">
+                            <originalPrice>5.05</originalPrice>
+                            <discountPrice>1.87</discountPrice>
+                        </size>
+                        <size name="2XL">
+                            <originalPrice>5.05</originalPrice>
+                            <discountPrice>1.87</discountPrice>
+                        </size>
+                        <size name="3XL">
+                            <originalPrice>5.05</originalPrice>
+                            <discountPrice>1.87</discountPrice>
+                        </size>
+                        <size name="4XL">
+                            <originalPrice>5.05</originalPrice>
+                            <discountPrice>1.87</discountPrice>
+                        </size>
+                        <size name="5XL">
+                            <originalPrice>5.05</originalPrice>
+                            <discountPrice>1.87</discountPrice>
+                        </size>
+                    </sizes>
+                </variant>
+                <variant color="Red" stock="99998" currency="EUR">
+                    <sizes>
+                        <size name="XXS">
+                            <originalPrice>5.05</originalPrice>
+                            <discountPrice>1.87</discountPrice>
+                        </size>
+                        <size name="XS">
+                            <originalPrice>5.05</originalPrice>
+                            <discountPrice>1.87</discountPrice>
+                        </size>
+                        <size name="S">
+                            <originalPrice>5.05</originalPrice>
+                            <discountPrice>1.87</discountPrice>
+                        </size>
+                        <size name="M">
+                            <originalPrice>5.05</originalPrice>
+                            <discountPrice>1.87</discountPrice>
+                        </size>
+                        <size name="L">
+                            <originalPrice>5.05</originalPrice>
+                            <discountPrice>1.87</discountPrice>
+                        </size>
+                        <size name="XL">
+                            <originalPrice>5.05</originalPrice>
+                            <discountPrice>1.87</discountPrice>
+                        </size>
+                        <size name="2XL">
+                            <originalPrice>5.05</originalPrice>
+                            <discountPrice>1.87</discountPrice>
+                        </size>
+                        <size name="3XL">
+                            <originalPrice>5.05</originalPrice>
+                            <discountPrice>1.87</discountPrice>
+                        </size>
+                        <size name="4XL">
+                            <originalPrice>5.05</originalPrice>
+                            <discountPrice>1.87</discountPrice>
+                        </size>
+                        <size name="5XL">
+                            <originalPrice>5.05</originalPrice>
+                            <discountPrice>1.87</discountPrice>
+                        </size>
+                    </sizes>
+                </variant>
+                <variant color="Orange" stock="99999" currency="EUR">
+                    <sizes>
+                        <size name="XXS">
+                            <originalPrice>5.05</originalPrice>
+                            <discountPrice>1.87</discountPrice>
+                        </size>
+                        <size name="XS">
+                            <originalPrice>5.05</originalPrice>
+                            <discountPrice>1.87</discountPrice>
+                        </size>
+                        <size name="S">
+                            <originalPrice>5.05</originalPrice>
+                            <discountPrice>1.87</discountPrice>
+                        </size>
+                        <size name="M">
+                            <originalPrice>5.05</originalPrice>
+                            <discountPrice>1.87</discountPrice>
+                        </size>
+                        <size name="L">
+                            <originalPrice>5.05</originalPrice>
+                            <discountPrice>1.87</discountPrice>
+                        </size>
+                        <size name="XL">
+                            <originalPrice>5.05</originalPrice>
+                            <discountPrice>1.87</discountPrice>
+                        </size>
+                        <size name="2XL">
+                            <originalPrice>5.05</originalPrice>
+                            <discountPrice>1.87</discountPrice>
+                        </size>
+                        <size name="3XL">
+                            <originalPrice>5.05</originalPrice>
+                            <discountPrice>1.87</discountPrice>
+                        </size>
+                        <size name="4XL">
+                            <originalPrice>5.05</originalPrice>
+                            <discountPrice>1.87</discountPrice>
+                        </size>
+                        <size name="5XL">
+                            <originalPrice>5.05</originalPrice>
+                            <discountPrice>1.87</discountPrice>
+                        </size>
+                    </sizes>
+                </variant>
+            </variants>
             <reviews>
                 <review>
-                    <user>Наталья</user>
+                    <user>Anna</user>
                     <rating>5</rating>
-                    <text>Очень хорошая цена, мне нравится, пришло мятым, я девушка размера 1 в Мексике, рекомендую</text>
+                    <text>Товар не такой, как я ожидал. Я думал, что это будет хорошая повседневная футболка. Однако, она сделана из трикотажного материала. Не из материала для футболок. С другой стороны, товар отличный. Швы хорошие. Цена хорошая. Доставка быстрая. Кроме материала, все отлично</text>
                 </review>
                 <review>
-                    <user>Максим</user>
+                    <user>Maxim</user>
                     <rating>5</rating>
-                    <text>Идеально подошли 1.67 и сыт 56 Я заказал средний размер Я остаюсь эффектным отдельно идет с подкладкой Хорошее качество Я закажу зеленый и серый без сомнений! Плюс</text>
+                    <text>Очень дешевая мягкая ткань, супер свежая</text>
                 </review>
             </reviews>
         </product>
-        <!--https://www.aliexpress.com/item/1005006976494502.html?spm=a2g0o.productlist.main.11.42be34f1yF6JrM&algo_pvid=facfe5ea-3660-458f-b247-bbdd44aef6c5&algo_exp_id=facfe5ea-3660-458f-b247-bbdd44aef6c5-5&pdp_ext_f=%7B%22order%22%3A%221303%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21EUR%2159.60%2117.08%21%21%21438.25%21125.60%21%40210384cc17391905253975549ef17c%2112000038915807405%21sea%21EE%210%21ABX&curPageLogUid=BjXYOEFRnyWJ&utparam-url=scene%3Asearch%7Cquery_from%3A-->
-
-        <product id="6">
-            <title>Men sweater</title>
-            <brand>KUCLUT</brand>
-            <price currency="USD">25</price>
-            <stock>48</stock>
-            <rating>4.3</rating>
-            <reviews>
-                <review>
-                    <user>Эмиль</user>
-                    <rating>3</rating>
-                    <text>Для шкива нормально. Не копия бренда.</text>
-                </review>
-                <review>
-                    <user>Артур</user>
-                    <rating>5</rating>
-                    <text>Очень мягкий. На рост 48. Хорошо сел XL. Рукава не короткие.</text>
-                </review>
-            </reviews>
-        </product>
-        <!--https://www.aliexpress.com/item/1005007977013670.html?spm=a2g0o.productlist.main.7.1c47e513mGfPLA&aem_p4p_detail=202502100435187470917728958020007587302&algo_pvid=edd01a55-3960-4837-a77b-cdeff9595100&algo_exp_id=edd01a55-3960-4837-a77b-cdeff9595100-3&pdp_ext_f=%7B%22order%22%3A%2256%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21EUR%2135.14%2117.57%21%21%21258.36%21129.18%21%402103835e17391909187503265e7d13%2112000043124991743%21sea%21EE%210%21ABX&curPageLogUid=EPJTvDV9EUkF&utparam-url=scene%3Asearch%7Cquery_from%3A&search_p4p_id=202502100435187470917728958020007587302_1-->
     </category>
 
     <!-- Категория: Обувь -->
     <category name="Обувь">
-        <product id="7">
-            <title>Мужские зимние ботинки</title>
-            <brand>BJ</brand>
-            <price currency="USD">6</price>
-            <stock>1</stock>
-            <rating>4.3</rating>    
-            <reviews>
+        <!-- Источник: https://www.aliexpress.com/item/1005007795378875.html?spm=a2g0o.productlist.main.21.1a9b13136cqwOP&algo_pvid=d1543221-e683-41f2-b26f-a127343db4c0&algo_exp_id=d1543221-e683-41f2-b26f-a127343db4c0-10&pdp_ext_f=%7B%22order%22%3A%22-1%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21EUR%2111.16%217.26%21%21%2183.01%2153.96%21%402103919917397229956505691e35f0%2112000042232064009%21sea%21EE%210%21ABX&curPageLogUid=UerPE0eEsUYG&utparam-url=scene%3Asearch%7Cquery_from%3A -->
+        <product id="6">
+            <title>Sport Shoes</title>
+            <brand>VIR"</brand>
+            <rating>4.6</rating>
+            <variants>
+                <variant color="Black" currency="EUR" stock="550">
+                    <sizes>
+                        <size name="39">
+                            <originalPrice>11.16</originalPrice>
+                            <discountPrice>7.26</discountPrice>
+                        </size>
+                        <size name="40">
+                            <originalPrice>11.16</originalPrice>
+                            <discountPrice>7.26</discountPrice>
+                        </size>
+                        <size name="41">
+                            <originalPrice>11.16</originalPrice>
+                            <discountPrice>7.26</discountPrice>
+                        </size>
+                        <size name="42">
+                            <originalPrice>11.16</originalPrice>
+                            <discountPrice>7.26</discountPrice>
+                        </size>
+                        <size name="43">
+                            <originalPrice>11.16</originalPrice>
+                            <discountPrice>7.26</discountPrice>
+                        </size>
+                        <size name="44">
+                            <originalPrice>11.16</originalPrice>
+                            <discountPrice>7.26</discountPrice>
+                        </size>
+                    </sizes>
+                </variant>
+                <variant color="White" currency="EUR" stock="550">
+                    <sizes>
+                        <size name="39">
+                            <originalPrice>11.16</originalPrice>
+                            <discountPrice>7.26</discountPrice>
+                        </size>
+                        <size name="40">
+                            <originalPrice>11.16</originalPrice>
+                            <discountPrice>7.26</discountPrice>
+                        </size>
+                        <size name="41">
+                            <originalPrice>11.16</originalPrice>
+                            <discountPrice>7.26</discountPrice>
+                        </size>
+                        <size name="42">
+                            <originalPrice>11.16</originalPrice>
+                            <discountPrice>7.26</discountPrice>
+                        </size>
+                        <size name="43">
+                            <originalPrice>11.16</originalPrice>
+                            <discountPrice>7.26</discountPrice>
+                        </size>
+                        <size name="44">
+                            <originalPrice>11.16</originalPrice>
+                            <discountPrice>7.26</discountPrice>
+                        </size>
+                    </sizes>
+                </variant>
+            </variants>
+             <reviews>
                 <review>
-                    <user>Сергей</user>
+                    <user>Alexey</user>
                     <rating>4</rating>
-                    <text>Хорошая камера, но батарея садится быстро.</text>
+                    <text>Кроссовки удобные, легкие, отлично подходят для спорта. Рекомендую!</text>
+                </review>
+                <review>
+                    <user>Olga</user>
+                    <rating>5</rating>
+                    <text>Качество на высоте, стильный дизайн и комфортная посадка. Довольна покупкой.</text>
                 </review>
             </reviews>
         </product>
-        <!--https://www.aliexpress.com/item/1005007472724918.html?spm=a2g0o.productlist.main.15.fef45NZx5NZxjT&aem_p4p_detail=2025021004445516436326358623970003962203&algo_pvid=3bbf2cbf-8479-43df-aef6-44fef346f0e6&algo_exp_id=3bbf2cbf-8479-43df-aef6-44fef346f0e6-7&pdp_ext_f=%7B%22order%22%3A%22806%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21EUR%2113.68%215.20%21%21%2113.77%215.24%21%40211b6c1917391914957797581e4487%2112000040895394639%21sea%21EE%210%21ABX&curPageLogUid=fXjSqSW2SIYb&utparam-url=scene%3Asearch%7Cquery_from%3A&search_p4p_id=2025021004445516436326358623970003962203_2-->
+
+
+        <!--https://www.aliexpress.com/item/1005005461861208.html?spm=a2g0o.productlist.main.75.1a9b13136cqwOP&algo_pvid=d1543221-e683-41f2-b26f-a127343db4c0&algo_exp_id=d1543221-e683-41f2-b26f-a127343db4c0-37&pdp_ext_f=%7B%22order%22%3A%221089%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21EUR%215.91%210.97%21%21%216.04%210.99%21%402103919917397229956505691e35f0%2112000033176438576%21sea%21EE%210%21ABX&curPageLogUid=3KRB4DWrZgpH&utparam-url=scene%3Asearch%7Cquery_from%3A-->
+        <product id="7">
+            <title>2025 Fashion Women Flip</title>
+            <brand>ANIH</brand>
+            <stock>1 per person</stock>
+            <rating>4.4</rating>
+            <variants>
+                <variant color="Black" currency="EUR">
+                    <sizes>
+                        <size name="35">
+                            <discountPrice>0.97</discountPrice>
+                            <originalPrice>5.91</originalPrice>
+                        </size>
+                        <size name="36">
+                            <discountPrice>0.97</discountPrice>
+                            <originalPrice>6.23</originalPrice>
+                        </size>
+                        <size name="37">
+                            <discountPrice>0.97</discountPrice>
+                            <originalPrice>6.40</originalPrice>
+                        </size>
+                        <size name="38">
+                            <discountPrice>0.97</discountPrice>
+                            <originalPrice>6.17</originalPrice>
+                        </size>
+                    </sizes>
+                </variant>
+                <variant color="White" currency="EUR">
+                    <sizes>
+                        <size name="35">
+                            <discountPrice>0.97</discountPrice>
+                            <originalPrice>6.25</originalPrice>
+                        </size>
+                        <size name="36">
+                            <discountPrice>0.97</discountPrice>
+                            <originalPrice>6.18</originalPrice>
+                        </size>
+                        <size name="37">
+                            <discountPrice>0.97</discountPrice>
+                            <originalPrice>6.67</originalPrice>
+                        </size>
+                        <size name="38">
+                            <discountPrice>0.97</discountPrice>
+                            <originalPrice>6.55</originalPrice>
+                        </size>
+                    </sizes>
+                </variant>
+            </variants>
+            <reviews>
+                <review>
+                    <user>Маруся</user>
+                    <rating>4</rating>
+                    <text>Взяла 39 размер вместо 38 французского, немного маломерит, но для дома подойдет идеально, да и за такую ​​цену тоже!</text>
+                </review>
+                <review>
+                    <user>Сидро</user>
+                    <rating>5</rating>
+                    <text>пришел правильного размера и хорошего материала, как и было сказано</text>
+                </review>
+            </reviews>
+        </product>
     </category>
 </online_store>
